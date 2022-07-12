@@ -102,7 +102,7 @@ I am not used to TDD/unit test cases writing. Opted to skip it. It's a skill, I'
         method: DELETE
         parameters:
             id (String)
-        full route: https://dummy.restapiexample.com//api/v1/employee/delete/{id}
+        full route: https://dummy.restapiexample.com//api/v1/employee/~delete/{id}
     response:
         {
             "status": "success",
